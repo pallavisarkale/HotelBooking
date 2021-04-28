@@ -1,2 +1,0 @@
-# HotelBooking
-Hotel booking project
